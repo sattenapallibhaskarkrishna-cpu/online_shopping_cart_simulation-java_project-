@@ -97,7 +97,7 @@ public class AccountManager {
 
             System.out.println("✔ Password updated successfully!");
 
-        } catch (Exception e) {
+        } catch (Exception e) {           //catch file
             e.printStackTrace();
         }
     }
